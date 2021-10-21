@@ -1,0 +1,13 @@
+You can set up automations for talking/casting spells. You have 10 slots you can fill up. To enter a command, type this..
+
+/command 1 broadcast hello everyone
+
+for regular chat, you could use this
+
+/command 1 chat hi!
+
+Now, when you hit control+1 it will broadcast "hello everyone" to the server.
+
+to ready a spell, type this:
+
+/command 1 cast minor heal

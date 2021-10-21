@@ -1,0 +1,8 @@
+First you'll need to find a cash register and equip it. Equipping it will make your shop active. You MUST be logged on to run a shop. Items in your inventory and gold will be handled by your shop.
+
+Here are the commands to set your shop up
+
+/shop sell Long Sword x50    (sells a long sword for 50 gold)
+/shop buy Long Sword x10     (buys a long sword for 10 gold)
+/shop list                   (lists everything in your shop)
+/shop remove Long Sword      (removes the listed item from your buy and sell list)

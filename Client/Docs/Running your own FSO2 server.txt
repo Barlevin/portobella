@@ -1,0 +1,3 @@
+If you want to run your own FSO2 server, check out:
+
+http://www.firststaronline2.com/server
